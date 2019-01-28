@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>The Bird's Cage</title>
+        <link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+<body>
+    <header>
+        
+        <div class="row">
+            <div class="logo">
+                <img src="Bird.jpg">
+            </div>
+        <ul class="main-nav">
+            
+            <li class="#"><a href=""> HOME </a></li>
+            <li><a href="rates.htm"><button>Rates</button></a></li>
+            <li><a href="#"> Discord </a></li>
+            <li><a href="#"> About </a></li>
+            <li><a href="#"> Contact </a></li>
+            
+        </ul>
+            
+        </div>
+        
+        <div class="hero">
+            <h1>What can you expect</h1>
+        </div>
+        <div class="introduction">
+        <p>
+            The Bird's Cage is a server created for ARK: Survival Evolved which is being hosted by GPortal.
+        </p>
+            <br/>
+        <p>
+            We are a PvP server which currently has 2 maps in total which are as follows:
+        </p>
+            <br/>
+            <li>aberration</li>
+            <li>ragnorock</li>
+           
+            
+            <br/>
+        
+        <p>
+            The server does have mods installed which are discussed in the Mods page of the website.
+        </p>
+            <br/>
+        <p>
+            This server has combination of intense pvp and nice people hanging out to have the most fun possible for you.
+        </p>
+        <br/>
+        <br/>
+        <p>
+            If you would like to join or to read more about the server then please check the other pages.
+        </p>
+      
+        <h1>#General Rules</h1>
+       <p>#General Rules
+
+-No Carebearing-</p>
+<p> Do not freely hand out creatures or high level building materials of value without getting something of equal value or around the same value back (Trading is fine, carrying someone is not) </p>
+<p>-No mass building-</p>
+<p>Do not build in several different locations just to have it as an “Outpost” A tribe member can have their own base but must stick to that. </p>
+<p>-Do not build or block any crutal spawns- </p>
+<p>It's pretty self explanatory, Do not block the Artifacts and critical spawns. </p>
+<p>-No foundation spam- </p>
+<p>Stray foundations will be removed </p>
+<p>-Do not log in just to reset the timer-</p>
+<p> Anyone found doing this without letting a Mod, Admin, or Owner know their reason, regardless of the timer reset, the previous timer will remain and creatures will be unclaimed if you are not active. EX: Dont just log on for 15 mins after you have been MIA for days and expect to be ok. Please let an admin, Mod, or Owner know your still interested in being consistent on the server. </p></p>
+<p>-Do not build next to people-</p> 
+<p>This goes for well established people, If someone is sporting a box then you may not see them and this will be excused.</p>
+<p>-Do not exploit-</p>
+<p>This means building in the mesh or under the map, if this is found to be true your base will be demo'ed without warning. As far as Exploits in general DO NOT use them! If you find one DO NOT do it again or you will be banned!</p></p>
+<h1>#PvP Rules</h1>
+
+<p>-No Wiping- </p>
+<p>Do not level someones base, this is just inconsiderate and unnecessary. However, you can destroy what you need to, AND if someone is sporting just a box, it can get caught in the crossfire and get destroyed (This is excused but you must raid them with equal fighting power) </p>
+<p>-No Griefing- </p>
+ <p>do not lead a creature or boss to someones base. (Does not include Arranged Wars)</p> 
+<p>-Arranged Wars-</p> 
+<p>Arranged wars are a MUTUAL agreement where two tribes agree on going all out in a war, can include Wiping and Griefing. If tribes would like to do this they MUST let an Admin or Owner know. </p>
+<p>-Roleplay- </p>
+<p>This is a soft Roleplay server, people can be in character, this is encouraged but not required. </p>
+<p>Please do not interrupt others Roleplay experience</p>
+<p>-Roles and Businesses-</p></p>
+ <p>Since this is a Roleplay server we will have an option for roles and businesses, If someone is having a business PLEASE let them have that glory for EX:</p> 
+<p>Person A: They breed Hyaenodons</p>
+<p>Person B: Buys Hyaenodons from said person </p>
+<p>We greatly discourage people taking away business and roleplay fun for others. </p>
+<p>-No Combat Logging- </p>
+<p>If you are being raided you can NOT log off and rely on the ORP timers. If you need to get off for something that is fine but you must let the raider or admin know. If you are wondering if a raid is still happening and you need to leave just ask. If you are caught Combat Logging you will be issues a penalty as well as loosing some of your creatures.</p> 
+<p>-Tek Forcefields- </p>
+<p>On the topic of Tek Forcefields, you may NOT use more then one and it may only be under water. As for the Tek shields on the Platforms you may only use ONE of them, the rest must be deactivated. (IF someone destroys your Shield in a raid you cant just activate another after your first goes down) </p>
+<p>Respect the Rules, do not ruin the gameplay for others</p>
+        
+
+
+    </div>
+    </header>
+</body>
+</html>

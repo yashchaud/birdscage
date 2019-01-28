@@ -1,0 +1,147 @@
+style.css
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-image: url(background.jpg);
+    height: 300vh;
+    background-size: cover;left;
+    background-position: center;
+}
+
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: -50px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: fantasy;
+    font-size: 15px;
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+}
+
+.main-nav li a:hover
+{
+    border: 20px solid white;
+}
+
+.logo img
+{
+    width: 150px;
+    height: auto;
+    float: center;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 100;
+    margin-top: 0;
+}
+
+h1
+{
+    color: white;
+    text-transform: capitalize;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 125px;
+    
+}
+
+.introduction
+{
+    float: center;
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.button
+{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.btn-one
+{
+    background-color: darkred;
+    font-family: cursive;
+}
+
+.text
+{
+    float: left;
+    color: white;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 375px;
+}
+
+.mods
+{
+    float: left;
+    width: 1200px;
+    color: white;
+    margin-top: 0;
+    margin-left: 350px;
+}
+.Discord
+{
+
+  float: center;
+  text-align: center;
+  color: white;
+  margin-top: 250px;
+
+}
+
+.Donate
+{
+
+
+    float: center;
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+}
